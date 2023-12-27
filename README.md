@@ -1,2 +1,13 @@
-# SYSU-CS2023-Resources
-Open-access course resources repository for SYSU CS2023 students
+# 中山大学计算机学院2023级学习资料共享仓库
+## 前言
+待补充
+## 上传规范
+请规范好上传文件的文件名，标名书名、版本、作者、出版社等要素，如课本“《大学物理学  电磁学、光学、量子物理》（第四版）张三惠“
+## 贡献
+**欢迎贡献！**
+
+**欢迎贡献！**
+
+**欢迎贡献！**  
+欢迎教材上传、仓库整理、完善README等等形式的贡献  
+请联系chenhq79@mail2.sysu.edu.cn
